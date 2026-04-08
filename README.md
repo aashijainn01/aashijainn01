@@ -111,15 +111,19 @@ currently_building: AI-driven developer tools & health-tech solutions
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aashijainn01&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashijainn01/aashijainn01/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashijainn01/aashijainn01/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aashijainn01/aashijainn01/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashijainn01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" />
