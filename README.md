@@ -64,13 +64,35 @@ currently_building: AI-driven developer tools & health-tech solutions
       <p><code>Java</code> <code>Spring Boot</code> <code>OpenAI/Gemini</code> <code>GitHub API</code></p>
     </td>
     <td width="50%">
+      <h3 align="center">🏠 ProPredict AI</h3>
+      <p align="center">
+        <a href="https://github.com/aashijainn01/ProPredict-AI">
+          <img src="https://img.shields.io/badge/View_Repo-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>AI-powered property analytics platform that predicts land/property prices using location and market data. Provides dynamic estimations, price trends, and financial insights.</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>REST APIs</code> <code>MySQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏥 MediSphere</h3>
+      <p align="center">
+        <a href="https://github.com/aashijainn01/medisphere-medical-management-system">
+          <img src="https://img.shields.io/badge/View_Repo-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Microservices-based healthcare platform built with Spring Cloud and JWT Security. Integrates patient management, doctor scheduling, appointments, and prescriptions.</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>Spring Cloud</code> <code>JWT Security</code></p>
+    </td>
+    <td width="50%">
       <h3 align="center">✉️ Smart Gmail AI Reply Assistant</h3>
       <p align="center">
         <a href="https://github.com/aashijainn01/Smart-gmail-ai-reply-assistant">
           <img src="https://img.shields.io/badge/View_Repo-A855F7?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>Chrome Extension + Spring Boot backend that generates <strong>context-aware email replies</strong> using Generative AI. One-click smart responses right inside Gmail.</p>
+      <p>Chrome Extension + Spring Boot backend generating <strong>context-aware email replies</strong> using Generative AI. Offers one-click smart responses right inside Gmail.</p>
       <p><code>Java</code> <code>JavaScript</code> <code>Chrome Extension</code> <code>GenAI</code></p>
     </td>
   </tr>
@@ -86,15 +108,18 @@ currently_building: AI-driven developer tools & health-tech solutions
       <p><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>PyAutoGUI</code></p>
     </td>
     <td width="50%">
-      <h3 align="center">🏥 MedMitra</h3>
+      <h3 align="center">🎙️ Audio Customer Support Agent</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/In_Progress-FF6B6B?style=for-the-badge&logoColor=white" />
+        <a href="https://github.com/aashijainn01/audio-customer-support-agent">
+          <img src="https://img.shields.io/badge/View_Repo-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
-      <p>AI-powered health assistance platform providing intelligent medical guidance and health tracking features for users.</p>
-      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>AI</code></p>
+      <p>Real-time voice-based conversational AI agent for automated customer support using advanced speech processing and Large Language Models.</p>
+      <p><code>Python</code> <code>Ollama / Gemini</code> <code>Speech Recognition</code> <code>TTS</code></p>
     </td>
   </tr>
 </table>
+
 
 ---
 
